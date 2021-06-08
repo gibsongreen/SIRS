@@ -17,7 +17,7 @@ To use the software, you will need to have knowledge of Python and the terminal 
 Example: M20120110_231539_FGCU_02
 
 Single Directory Usage
-
+(there may be a few additional smaller steps let me know if you get stuck and I can guide you)
 1. Create a workspace directory (folder) on your computer (this can be anywhere), and inside of it create a folder named “Raw_Data”
 2. Put the images that you want to analyze into the folder named “Raw_Data”
 3. Put the “sprite_load_test.py” and “model.h5” files into the workspace directory. (So, these 2 files and Raw_Data are inside this folder)
